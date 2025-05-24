@@ -1,3 +1,7 @@
+⚠️ Note: This repository was created as part of a guided learning path ~3 years ago.
+Some dependencies, CI workflows, or syntax may now be outdated and cause build/test failures.
+The goal of this project was educational: to understand CosmWasm contract structure and logic fundamentals.
+
 # Zero to Hero - Rust & CosmWasm
 
 A progressive repository exploring CosmWasm smart contract development from the ground up. Exercises, theory, and practical modules are included.
